@@ -60,17 +60,13 @@ The default SVM model from scikit-learn was used for training. The steps involve
 2. Preprocessing the data.
 3. Splitting the data into training and testing sets.
 4. Training the SVM model.
-5. Evaluating the model's performance using metrics such as accuracy, precision, recall, and F1 score.
+5. Evaluating the model's performance using metrics accuracy.
 
 ## Evaluation
 
 The model's performance was evaluated using the following metrics:
 
 - Accuracy
-- Precision
-- Recall
-- F1 Score
-- Confusion Matrix
 
 ## Results
 
